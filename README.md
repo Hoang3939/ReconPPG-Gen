@@ -1,6 +1,6 @@
 # ReconPPG-Gen – Tái tạo & Tạo sinh tín hiệu PPG từ dữ liệu HR và BR
 
-Dự án **ReconPPG-Gen** là bài tập lớn/báo cáo giữa kỳ cho học phần dữ liệu lớn, thực hiện bởi sinh viên ngành Kỹ thuật phần mềm. Mục tiêu của dự án là **tái tạo tín hiệu PPG từ dữ liệu thực tế** và **tạo sinh tín hiệu PPG từ nhịp tim (HR) và nhịp thở (BR)**, thông qua việc huấn luyện các mô hình học sâu.
+Dự án **ReconPPG-Gen** là bài tập lớn/báo cáo giữa kỳ cho học phần dữ liệu lớn, thực hiện bởi sinh viên ngành Khoa học máy tính, chuyên ngành Kỹ thuật phần mềm. Mục tiêu của dự án là **tái tạo tín hiệu PPG từ dữ liệu thực tế** và **tạo sinh tín hiệu PPG từ nhịp tim (HR) và nhịp thở (BR)**, thông qua việc huấn luyện các mô hình học sâu.
 
 ---
 
